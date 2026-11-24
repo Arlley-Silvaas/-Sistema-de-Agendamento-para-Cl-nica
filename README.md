@@ -74,17 +74,20 @@ O sistema inicia com pacientes, médicos e consultas previamente cadastrados par
 
 ## 9. Integrantes
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-- [Nome do integrante 4]
+- Gustavo Felipe Silva Oliveira - 1716787
+Allyssandrus Barbosa da Silva - 01709749
+Arthur da Silva -01705814
+Ryan Roger Mizael de Oliveira - 01721710
+Leandro Costa De Almeida Filho - 01705132
+Arlley Alisson silvestre da Silva - 01706158
+Nathan Pereira de Amorim gato - 01674708
 
 ## 10. Disciplina
 
 Paradigmas de Programação
 
-**Professor:** [Nome do professor]
+**Professor:** Marco rogério
 
-**Instituição:** [Nome da instituição]
+**Instituição:** UNINASSAU
 
 **Ano:** 2026
